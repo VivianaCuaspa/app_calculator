@@ -23,9 +23,9 @@ Tiene funciones básicas de una calculadora.
 ![image](https://github.com/VivianaCuaspa/project_calculator/assets/119900830/c4afdee7-ea70-408b-a4e6-170039b1b0a4)
 
 Operación Suma 
-![image](https://github.com/VivianaCuaspa/project_calculator/assets/119900830/8e0c8eed-75cc-4b10-8b20-c4f7abb49732)
-![image](https://github.com/VivianaCuaspa/project_calculator/assets/119900830/02e855c3-67fc-4011-8772-5e059c0a08a6)
+![image](https://github.com/VivianaCuaspa/project_calculator/assets/119900830/d8655896-d7e7-4450-a861-4dc9b56ad1e4)
 
+![image](https://github.com/VivianaCuaspa/project_calculator/assets/119900830/3c508479-deaf-48ab-aaec-84dfd6187fd0)
 
 Operación Resta
 ![image](https://github.com/VivianaCuaspa/project_calculator/assets/119900830/1e5ee106-a634-4735-92ff-470fa67d8a32)
@@ -37,7 +37,7 @@ Operación Multiplicación
 
 Operación División
 ![image](https://github.com/VivianaCuaspa/project_calculator/assets/119900830/cbfee6e7-61fa-4d47-804f-602e0362b5d1)
-![Uploading image.png…]()
+![image](https://github.com/VivianaCuaspa/project_calculator/assets/119900830/8e7023a6-a57c-42ca-b707-b39d7b9c53a1)
 
 
 
